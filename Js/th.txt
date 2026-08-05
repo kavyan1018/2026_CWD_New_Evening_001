@@ -63,3 +63,17 @@ firefox -> spider monkey
 safari -> nitro / webkit
 edge -> chakra
 brave ->v8 engine
+
+----------------------------------------
+
+howmany ways we can write js
+1. inline
+2. internal
+3. external
+
+
+js -> not run -> link with HTML page -> open with browser -> run
+
+------------------------------------------------
+
+
