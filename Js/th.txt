@@ -1,0 +1,65 @@
+html -> Structure
+css -> Style
+js -> functionality
+
+
+to make web pages interactive and dynamic
+
+
+types of dev :
+
+    1. Front-end development
+            ->  Html, css, js, react 
+
+    2. Back-end development
+            -> C, C++, Java, Python, PHP, Node.js
+
+
+
+Fullstack developer   -> F, B
+
+
+too manipulate the HTML Page we need Js 
+    -> manipulate its mean -> Dynamically change the data of the page without reloading it
+
+
+programming language :
+    -> that is compiled and run on the machine
+        -> c, cpp, java 
+
+Scripting language :
+    -> that is interpreted by the browser and not compiled
+        -> js, python, php
+
+
+java -> oak    -> dev -> oak -> js -> Java
+
+
+Client side 
+    -> which user see and interact with the page
+
+server side
+    -> which user don't see and interact with the page
+
+
+Stattically typed language
+    -> which is defined at the time of writing the code
+        -> c, cpp, java
+
+Dynamically typed language
+    -> which is defined at the time of running the code 
+        -> js, python, php
+
+
+-----------------------------------------------------------------
+
+Compiler ?
+yes ?? babble
+
+all browsers have a built-in compiler for js 
+
+chrome -> v8 engine
+firefox -> spider monkey
+safari -> nitro / webkit
+edge -> chakra
+brave ->v8 engine
