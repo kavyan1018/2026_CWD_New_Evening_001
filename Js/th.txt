@@ -76,4 +76,31 @@ js -> not run -> link with HTML page -> open with browser -> run
 
 ------------------------------------------------
 
+how to declare js variable
 
+var
+
+in var re declaration is possible
+in var re initialization is possible
+
+var name = "Jone";
+var name = "David";
+
+var age = 20;
+age = 25;     
+
+
+let 
+
+in let re declaration is not possible
+in let re initialization is possible
+
+let name = "Jone";
+let name = "David";  // error
+
+
+let age = 20;
+age = 25;
+
+
+const
