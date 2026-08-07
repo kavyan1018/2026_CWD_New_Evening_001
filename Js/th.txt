@@ -76,6 +76,10 @@ js -> not run -> link with HTML page -> open with browser -> run
 
 ------------------------------------------------
 
+var
+let
+const 
+
 how to declare js variable
 
 var
